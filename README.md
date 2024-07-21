@@ -17,19 +17,19 @@
    <img src="https://user-images.githubusercontent.com/58574988/134170370-c827d712-fcc7-432f-b9f8-96678b0c9bf6.gif">
 
    `R3nzSkin` is an internal skin changer for League of Legends.
-   “R3nzSkin”是一个英雄联盟（LOL）内置的换肤器。
+   “R3nzSkin”是一个英雄联盟（LOL）内置的换肤器
 
 
 </div>
 
 - Change the skin of your champion, your ward, other champions, towers, minions, 和 jungle monsters in the game.
-- 在游戏中改变你的英雄，你的守卫，其他英雄，防御塔，小兵和野怪的皮肤。
+- 在游戏中改变你的英雄，你的守卫，其他英雄，防御塔，小兵和野怪的皮肤
 - Automatic skin database update.
 - 自动更新皮肤数据库
 - Support for spectator mode.
 - 支持观战模式
 - Change skins anytime 和 unlimited times in a single game.
-- 在一个游戏对局中可以随时更换任意次数换肤。
+- 在一个游戏对局中可以随时更换任意次数换肤
 - Supports all popular languages ​​in the world.
 - 支持世界上所有热门语言（除了中文）
 - In-game configuration with <a href="https://github.com/ocornut/imgui">ImGui</a>.
